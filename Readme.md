@@ -4,7 +4,7 @@
 
 # Tip: In the command prompt use the command "mkdir NAME" to make a subfolder with the name "NAME" in your current working location
 
-# Tip: In the command prompt use the command cd .. to go back to your desktop
+# Tip: In the command prompt use the command cd .. to go up one level in the folder structure
 
 # Here are some git commands:
 
